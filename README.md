@@ -5,14 +5,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sathish+Dissanayaka;AI+%26+Data+Science+Undergraduate;Computational+Physics+Researcher;Cosmology+and+Quantum+Computing+Enthusiast;Educator+and+Lifelong+Learner" alt="Typing SVG" />
 </h1>
-
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?..." alt="Typing SVG" />
-  </a>
-</h1>
-
-
 ---
 
 <table align="center">
