@@ -7,9 +7,6 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://your-gif-url.gif" width="600px" />
-</p>
 
 ---
 
