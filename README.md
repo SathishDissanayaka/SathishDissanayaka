@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathishdissanayaka&label=Profile%20views&color=1abc9c&style=flat" alt="Profile Views" />
+  <img src="https://your-gif-url.gif" width="600px" />
 </p>
 
 ---
