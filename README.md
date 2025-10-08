@@ -30,19 +30,14 @@
 
 ---
 
-<h3 align="center">⚙️ Languages, Tools & Libraries</h3>
-
 <p align="center">
-<!-- Python, Data Science & ML/AI Tools -->
-<a href="#"><img src="https://skillicons.dev/icons?i=python,r,jupyter,colab,pandas,numpy,scipy,matplotlib,seaborn,plotly,scikitlearn,keras,tensorflow,pytorch,pytorch-lightning,mlp,randomforest,xgboost,catboost,lightgbm,nltk,spacy,networkx,joblib,dask,qiskit,astropy,sympy,rstudio" /></a>
+<!-- Python Libraries & ML/AI Tools -->
+<a href="#"><img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,matplotlib,seaborn,plotly,scikitlearn,keras,tensorflow,pytorch,mlp,randomforest,xgboost,catboost,lightgbm,nltk,spacy,networkx,joblib,dask,qiskit,astropy,sympy,pytorch-lightning,jupyter,colab,rstudio" /></a>
 <br><br>
 
 <!-- Programming Languages & Frameworks -->
-<a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,js,react,nodejs,express,php,mysql,mongodb,html,css,tailwind,rust,nextjs,flask,fastapi,supabase,git,linux,figma,postman,aws,azure" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin,js,react,nodejs,express,php,mysql,mongodb,html,css,tailwind,rust,nextjs,flask,fastapi,supabase,git,linux,figma,postman,aws,azure" /></a>
 </p>
-
-
-
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
