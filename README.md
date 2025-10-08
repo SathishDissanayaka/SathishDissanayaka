@@ -3,10 +3,9 @@
 </p>
 
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sathish+Dissanayaka;AI+%26+Data+Science+Undergraduate;Computational+Physics+Researcher;Cosmology+and+Quantum+Computing+Enthusiast;Educator+and+Lifelong+Learner" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sathish+Dissanayaka;AI+%26+Data+Science+Undergraduate;Computational+Physics+Researcher;Cosmology+and+Quantum+Computing+Enthusiast;Educator+and+Lifelong+Learner" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sathishdissanayaka&label=Profile%20views&color=1abc9c&style=flat" alt="Profile Views" />
