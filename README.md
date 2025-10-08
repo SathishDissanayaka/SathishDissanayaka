@@ -2,9 +2,9 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sathish+Dissanayaka;AI+%26+Data+Science+Undergraduate;Computational+Physics+Researcher;Cosmology+and+Quantum+Computing+Enthusiast;Educator+and+Lifelong+Learner"  />
-</h1>
+<h1 align="center">Hi 👋, I'm Sathish Dissanayaka</h1>
+<h3 align="center">AI & Data Science Undergraduate | Computational Physics Researcher | Cosmology & Quantum Computing Enthusiast | Educator & Lifelong Learner</h3>
+
 ---
 
 <table align="center">
