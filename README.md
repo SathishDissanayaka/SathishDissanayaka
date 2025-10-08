@@ -23,7 +23,8 @@
 
 </td>
 <td width="50%" align="center">
- <img align="center" alt="Data Science" width="450" src="https://media.giphy.com/media/3o7aD6t40vWlPjKLe0/giphy.gif">
+ <img align="center" alt="Python" width="450" src="https://media.giphy.com/media/26FPqut4K9gOJn2sg/giphy.gif">
+
 
 
 </td>
