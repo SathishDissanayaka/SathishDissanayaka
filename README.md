@@ -23,7 +23,8 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="AI" width="450" src="https://media.giphy.com/media/3o6ZsYb5pQh7u3i2X2/giphy.gif">
+
 </td>
 </tr>
 </table>
