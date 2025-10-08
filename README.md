@@ -26,7 +26,8 @@
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
   <br><br>
-  <img align="center" alt="AI" width="450" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlqYnE2MWx3ZnZkZ2x3bWJyeG54bXQzdjd1dnhycGR4ZmUzemZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQCCNezRpb9Hq/giphy.gif">
+  <img align="center" alt="AI" width="450" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE4ZjBpaWVubnI0am1tY3k2czZ4N2R1bXYyMDQ5Y3l6amFxMThlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
+
 
 </td>
 </tr>
