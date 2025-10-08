@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sathish Dissanayaka</h1>
-<h3 align="center"> Into AI & Data Science | Computational Physics Researcher | Cosmology & Quantum Computing Enthusiast | Educator & Lifelong Learner</h3>
+<h3 align="center"> Into AI & Data Science | Computational Physics Researcher | Cosmology & Quantum Computing Enthusiast| Educator & Lifelong Learner</h3>
 
 ---
 
