@@ -42,7 +42,10 @@
 <br><br>
 
 <!-- Python Libraries & ML/AI Tools -->
-<a href="#"><img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,matplotlib,seaborn,plotly,scikitlearn,keras,tensorflow,pytorch,mlp,randomforest,xgboost,catboost,lightgbm,nltk,spacy,networkx,joblib,dask,qiskit,astropy,sympy,pytorch-lightning,jupyter,colab,rstudio" /></a>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scipy,matplotlib,seaborn,plotly,scikitlearn,keras,tensorflow,pytorch,jupyter,colab,rstudio" />
+</a>
+
 </p>
 
 ---
