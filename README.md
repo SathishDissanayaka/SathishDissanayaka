@@ -41,6 +41,9 @@
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin,js,react,nodejs,express,php,mysql,mongodb,html,css,tailwind,rust,nextjs,flask,fastapi,supabase,git,linux,figma,postman,aws,azure,pandas,numpy,scipy,matplotlib,seaborn,plotly,keras,tensorflow,pytorch,jupyter,colab,rstudio" />
   </a>
+  <br><br>
+  <!-- Python Libraries & ML/AI Tools -->
+<a href="#"><img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,matplotlib,seaborn,plotly,scikitlearn,keras,tensorflow,pytorch,mlp,randomforest,xgboost,catboost,lightgbm,nltk,spacy,networkx,joblib,dask,qiskit,astropy,sympy,pytorch-lightning,jupyter,colab,rstudio" /></a>
 </p>
 
 
