@@ -39,7 +39,7 @@
 <p align="center">
   <!-- Programming Languages, Frameworks & Tools -->
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin,js,react,nodejs,express,php,mysql,mongodb,html,css,tailwind,rust,nextjs,flask,fastapi,supabase,git,linux,figma,postman,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=python,r,cpp,c,java,kotlin,js,react,nodejs,express,php,mysql,mongodb,html,css,tailwind,rust,nextjs,flask,fastapi,supabase,git,linux,figma,postman,aws,azure" />
   </a>
   <br><br>
   <!-- Python Libraries & ML/AI Tools -->
