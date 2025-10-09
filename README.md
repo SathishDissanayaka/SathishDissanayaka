@@ -38,13 +38,7 @@
 
 <p align="center">
 <!-- Programming Languages & Frameworks -->
-<a href="#"><img src="https://skillicons.dev/icons?i=python,r,cpp,c,java,kotlin,js,react,nodejs,express,php,mysql,mongodb,html,css,tailwind,rust,nextjs,flask,fastapi,supabase,git,linux,figma,postman,aws,azure" /></a>
-<br><br>
-
-<!-- Python Libraries & ML/AI Tools -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scipy,matplotlib,seaborn,plotly,scikitlearn,keras,tensorflow,pytorch,jupyter,colab,rstudio" />
-</a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,r,cpp,c,java,kotlin,js,react,nodejs,express,php,mysql,mongodb,html,css,tailwind,rust,nextjs,flask,fastapi,supabase,git,linux,figma,postman,aws,azure,pandas,numpy,scipy,matplotlib,seaborn,plotly,scikitlearn,keras,tensorflow,pytorch,jupyter,colab" /></a>
 
 </p>
 
