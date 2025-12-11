@@ -52,7 +52,7 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-<a href="#" target="blank">
+<a href="https://www.linkedin.com/in/sathish-dissanayaka-78a22b3a0/?isSelfProfile=true" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
 </a>
 <a href="https://www.instagram.com/nomadic_zeeker?igsh=MWs2bHlqcnF1anR3MQ%3D%3D&utm_source=qr" target="blank">
