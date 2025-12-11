@@ -105,5 +105,3 @@ As a lifelong learner and <b>digital nomad</b>, I travel the world seeking inspi
 </p>
 
 ---
-
-<h4 align="center">⭐ If you like my profile, consider giving it a star — it keeps me motivated! ⭐</h4>
