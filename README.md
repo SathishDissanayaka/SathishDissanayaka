@@ -66,27 +66,6 @@
 </a>
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathishdissanayaka&theme=radical&show_icons=true&count_private=true&cache_seconds=0" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishdissanayaka&theme=radical&hide_border=false&cache_seconds=0" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sathishdissanayaka&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&cache_seconds=0"/>
-</td>
-</tr>
-</table>
-</p>
-
----
-
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
 I’m a curious mind exploring the frontiers of <b>Artificial Intelligence</b>, <b>Data Science</b>, and <b>Computational Physics</b>.  
