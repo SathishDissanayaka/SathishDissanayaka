@@ -77,8 +77,8 @@ As a lifelong learner and <b>digital nomad</b>, I travel the world seeking inspi
 
 <h3 align="center">✨ Quotes I Live By</h3>
 <p align="center">
-<i>“Somewhere, something incredible is waiting to be known.” – Carl Sagan</i><br>
-<i>“If someone says it’s impossible, it’s impossible for them, not for you.” – Albert Einstein</i>
+<i>“Somewhere, something incredible is waiting to be known.” - Carl Sagan</i><br>
+<i>“If someone says it’s impossible, it’s impossible for them, not for you.” - Albert Einstein</i>
 </p>
 
 ---
